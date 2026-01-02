@@ -1,0 +1,14 @@
+videos:
+  - id: "1"
+    title: "我的學習方法分享"
+    description: "分享我如何規劃讀書時間，以及一些有效的學習技巧"
+    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    category: "學習"
+    embedUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  - id: "2"
+    title: "校園生活 Vlog"
+    description: "記錄一天的校園生活，從早自習到放學後的社團活動"
+    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    category: "生活"
+    embedUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+

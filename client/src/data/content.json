@@ -1,0 +1,71 @@
+{
+  "diaries": [
+    {
+      "id": "1",
+      "title": "期中考後的反思",
+      "date": "2024-11-05",
+      "excerpt": "這次期中考讓我學到很多。雖然數學沒有考得很理想，但我發現了自己需要加強的地方...",
+      "image": "/attached_assets/generated_images/Study_diary_header_0dd4220c.png",
+      "category": "學習",
+      "readTime": "3 分鐘",
+      "content": "# 期中考後的反思\n\n這次期中考讓我學到很多。雖然數學沒有考得很理想，但我發現了自己需要加強的地方。\n\n## 學習心得\n\n經過這次考試，我意識到：\n\n- 需要更系統地整理筆記\n- 應該提前開始準備，而不是臨時抱佛腳\n- 多做練習題很重要\n\n## 未來的計劃\n\n我決定：\n\n1. 每天固定時間複習\n2. 建立錯題本\n3. 向老師和同學請教不懂的地方\n\n希望下次能取得更好的成績！\n",
+      "slug": "期中考後的反思"
+    },
+    {
+      "id": "2",
+      "title": "秋天的公園散步",
+      "date": "2024-10-28",
+      "excerpt": "今天下午和家人一起去公園散步，看到滿地的落葉，突然覺得秋天真的很美...",
+      "image": "/attached_assets/generated_images/Diary_memory_photo_a7d01845.png",
+      "category": "生活",
+      "readTime": "2 分鐘",
+      "content": "# 秋天的公園散步\n\n今天下午和家人一起去公園散步，看到滿地的落葉，突然覺得秋天真的很美。\n\n## 美好的時光\n\n我們一起：\n\n- 欣賞秋天的景色\n- 撿拾美麗的落葉\n- 享受悠閒的午後時光\n\n## 感想\n\n有時候，簡單的陪伴就是最珍貴的禮物。和家人在一起的時光總是特別溫暖。\n",
+      "slug": "秋天的公園散步"
+    }
+  ],
+  "works": [
+    {
+      "id": "1",
+      "title": "水彩風景畫作品",
+      "description": "用水彩描繪了我最喜歡的公園一角，希望能捕捉大自然的美麗與寧靜。",
+      "image": "/attached_assets/generated_images/Art_project_showcase_137ca0d3.png",
+      "tags": [
+        "美術",
+        "水彩"
+      ],
+      "content": "# 水彩風景畫作品\n\n用水彩描繪了我最喜歡的公園一角，希望能捕捉大自然的美麗與寧靜。\n\n## 創作過程\n\n這幅畫是我花了一個週末完成的。我選擇了公園裡最喜歡的角落，那裡有：\n\n- 美麗的樹木\n- 寧靜的池塘\n- 悠閒的氛圍\n\n## 使用的技巧\n\n- 漸層渲染\n- 濕畫法\n- 色彩混合\n\n希望這幅畫能傳達出我對大自然的美好感受。\n",
+      "slug": "水彩風景畫作品"
+    },
+    {
+      "id": "2",
+      "title": "簡易計算機程式",
+      "description": "我的第一個程式作品！使用 Python 製作的簡單計算機，可以進行基本運算。",
+      "image": "/attached_assets/generated_images/Coding_project_display_77fdba7b.png",
+      "tags": [
+        "程式",
+        "Python"
+      ],
+      "link": "#",
+      "content": "# 簡易計算機程式\n\n我的第一個程式作品！使用 Python 製作的簡單計算機，可以進行基本運算。\n\n## 功能特色\n\n- 基本四則運算\n- 簡單易用的介面\n- 錯誤處理\n\n## 學習收穫\n\n透過這個專案，我學會了：\n\n1. Python 的基本語法\n2. 函數的定義和使用\n3. 條件判斷和迴圈\n4. 使用者輸入處理\n\n雖然功能很簡單，但這是我程式設計路上的重要里程碑！\n",
+      "slug": "簡易計算機程式"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "我的學習方法分享",
+      "description": "分享我如何規劃讀書時間，以及一些有效的學習技巧",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "category": "學習",
+      "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "2",
+      "title": "校園生活 Vlog",
+      "description": "記錄一天的校園生活，從早自習到放學後的社團活動",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "category": "生活",
+      "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    }
+  ]
+}

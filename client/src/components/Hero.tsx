@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowDown } from "lucide-react";
-import profileImage from "@assets/generated_images/Student_profile_photo_0452db23.png";
+const profileImage = "/attached_assets/generated_images/Student_profile_photo_0452db23.png";
 
 export default function Hero() {
   const scrollToAbout = () => {

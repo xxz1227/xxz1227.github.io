@@ -1,0 +1,30 @@
+id: "2"
+title: "簡易計算機程式"
+description: "我的第一個程式作品！使用 Python 製作的簡單計算機，可以進行基本運算。"
+image: "/attached_assets/generated_images/Coding_project_display_77fdba7b.png"
+tags:
+  - "程式"
+  - "Python"
+link: "#"
+content: |
+  # 簡易計算機程式
+
+  我的第一個程式作品！使用 Python 製作的簡單計算機，可以進行基本運算。
+
+  ## 功能特色
+
+  - 基本四則運算
+  - 簡單易用的介面
+  - 錯誤處理
+
+  ## 學習收穫
+
+  透過這個專案，我學會了：
+
+  1. Python 的基本語法
+  2. 函數的定義和使用
+  3. 條件判斷和迴圈
+  4. 使用者輸入處理
+
+  雖然功能很簡單，但這是我程式設計路上的重要里程碑！
+
